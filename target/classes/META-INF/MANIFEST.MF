@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: api-pessoas
+Implementation-Version: 0.0.0-SNAPSHOT
+Built-By: anderson-costa
+Implementation-Vendor-Id: com.api.pessoas
+Build-Jdk: 1.8.0_222
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/api-pessoas
+Created-By: Maven Integration for Eclipse
+
